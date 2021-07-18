@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 char	*ft_strchr(char *s, int c)
-{
+{ 
 	int		i;
 
 	i = 0;
